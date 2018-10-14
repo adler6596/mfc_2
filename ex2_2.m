@@ -44,3 +44,4 @@ for i = 1:k
     end
 end
 plot(x,u_0)   % the last curve does not go up to 1.0 -> why?
+%git hub is great
